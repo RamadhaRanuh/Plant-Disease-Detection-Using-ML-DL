@@ -138,3 +138,5 @@
 ---
 
 ## HuggingFace Space: https://huggingface.co/spaces/Mich24/Plant-Disease-Detection
+![Screenshot 2025-02-06 154102](https://github.com/user-attachments/assets/9df65cbf-af7b-4400-be79-5921784ebb07)
+
